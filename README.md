@@ -46,6 +46,12 @@ cmake -B build
 cmake --build build
 ```
 
+You can also use Makefile:
+
+```bash
+make rebuild && make run
+```
+
 ### Run the executable
 
 ```bash
