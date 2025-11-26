@@ -1,8 +1,9 @@
 #include <iostream>
-#include "project.hpp"
+
+using namespace std;
 
 int main() {
-    std::cout << "Hello from Nix + C++ + CMake!" << std::endl;
-    hello();
+    cout << "Hello, C++!" << '\n';
+    
     return 0;
 }
